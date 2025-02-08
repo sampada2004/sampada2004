@@ -114,5 +114,6 @@
 
 ### ✨ Thanks for Visiting!
 <p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200" />
+  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif"
+width="300" height="200" />
 </p>
