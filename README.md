@@ -8,12 +8,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Building ML models** 🤖
-- 🌱 I’m learning **Advanced Machine Learning Techniques** 📚
-- 👯 I’m looking to collaborate on **Projects related to Data Science and ML** 🤝
+- 🌱 I’m currently learning **AI/ML, DSA** 📚
 - 💬 Ask me about **ML, Data Analysis techniques** 📊
 - 📫 How to reach me: **sampadabjkmb@gmail.com** ✉️
-- 😄 Pronouns: She/Her 👩
 - ⚡ Fun fact: I love solving puzzles and coding challenges! 🧩
 
 ---
