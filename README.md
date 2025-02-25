@@ -94,19 +94,9 @@
 </p>
 
 ---
+### 🏆Trophies
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sampada2004" alt="sampada2004" /></a> </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sampada2004&theme=radical" alt="sampada2004" />
-</p>
-
----
-
-### 🔥 Streak Stats
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sampada2004&" alt="sampada2004" /></p>
-
----
 
 ### ✨ Thanks for Visiting!
 <p align="center">
