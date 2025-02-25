@@ -103,9 +103,8 @@
 ---
 
 ### 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sampada2004&theme=radical" alt="sampada2004" />
-</p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sampada2004&" alt="sampada2004" /></p>
 
 ---
 
