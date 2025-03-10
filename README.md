@@ -29,9 +29,7 @@
 <h3 align="center">Stats:</h3>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sampada2004&show_icons=true&locale=en" alt="sampada2004" /></p>
-<h3 align="center">Trophies:</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sampada2004" alt="sampada2004" /></a> </p>
 <h3 align="center">✨ Thanks for Visiting!</h3>
 <p align="center">
   <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="300" height="200" />
